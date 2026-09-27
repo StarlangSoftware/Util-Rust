@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2024"
 license = "GPL-3"
 description = "Simple Utils"
-repository = ""
+repository = "https://github.com/StarlangSoftware/Util-Rust"
 
 [dependencies]
 rand = "0.10"
